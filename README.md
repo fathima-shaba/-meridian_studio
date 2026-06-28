@@ -4,7 +4,7 @@ A custom WordPress theme built for the **Meridian Studio** website. Designed to 
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 **Meridian Studio** is a lightweight and highly optimized WordPress theme built entirely with custom page templates and semantic HTML. Instead of relying on heavy page builders, the theme utilizes native WordPress functionality to deliver excellent performance, maintainability, and flexibility.
 
@@ -12,9 +12,9 @@ The website features a modern homepage with a hero section, service highlights, 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🎯 Bespoke Homepage Layout
+###  Bespoke Homepage Layout
 
 A carefully structured homepage featuring:
 
@@ -26,7 +26,7 @@ A carefully structured homepage featuring:
   
 ## Live Website
 You can view the live project here: [Meridian Studio](http://fathimashaba.infinityfree.me)
-### ⚡ No Page Builders Required
+###  No Page Builders Required
 
 Built entirely using custom template files such as:
 
@@ -41,14 +41,14 @@ This approach ensures:
 * Easier maintenance
 * Better version control
 
-### 🎨 Modern Visual Design
+###  Modern Visual Design
 
 * Clean layouts
 * Bold service dividers
 * Consistent spacing
 * Professional typography
 
-### 📱 Fully Responsive
+###  Fully Responsive
 
 Designed with mobile-first principles, featuring:
 
@@ -56,7 +56,7 @@ Designed with mobile-first principles, featuring:
 * Mobile navigation menu
 * Optimized tablet and desktop experiences
 
-### 🚀 Performance Optimized
+###  Performance Optimized
 
 Lightweight JavaScript powers:
 
@@ -66,7 +66,7 @@ Lightweight JavaScript powers:
 
 ---
 
-## 🏗️ Theme Architecture
+##  Theme Architecture
 
 ```text
 meridian-theme/
@@ -96,7 +96,7 @@ meridian-theme/
 
 ---
 
-## 📂 Template Files
+##  Template Files
 
 | File                | Description                   |
 | ------------------- | ----------------------------- |
@@ -112,7 +112,7 @@ meridian-theme/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * WordPress
 * PHP
@@ -124,7 +124,7 @@ meridian-theme/
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The theme is fully responsive and optimized for:
 
@@ -135,7 +135,7 @@ The theme is fully responsive and optimized for:
 
 ---
 
-## ⚡ Performance Features
+##  Performance Features
 
 * Lightweight codebase
 * No external page builders
@@ -145,12 +145,12 @@ The theme is fully responsive and optimized for:
 
 ---
 
-## 📄 License
+##  License
 
 This project was developed as a custom WordPress theme for Meridian Studio. Feel free to modify and extend it according to your project requirements.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed with WordPress best practices, focusing on performance, maintainability, and user experience.
