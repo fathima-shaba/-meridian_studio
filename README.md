@@ -23,7 +23,9 @@ A carefully structured homepage featuring:
 * Portfolio showcase
 * Client testimonials
 * Call-to-action section
-
+  
+## Live Website
+You can view the live project here: [Meridian Studio](http://fathimashaba.infinityfree.me)
 ### ⚡ No Page Builders Required
 
 Built entirely using custom template files such as:
